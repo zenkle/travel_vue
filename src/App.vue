@@ -5,6 +5,7 @@
     master1
     master2
     feature1
+    feature2
     <img src="./assets/logo.png">
     <router-view />
   </div>
