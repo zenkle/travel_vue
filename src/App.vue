@@ -4,6 +4,7 @@
     11111122222
     master1
     master2
+    master3
     <img src="./assets/logo.png">
     <router-view />
   </div>
