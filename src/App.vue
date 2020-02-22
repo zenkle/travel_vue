@@ -2,10 +2,7 @@
   <div id="app">
 
     11111122222
-    master1
-    master2
-    feature1
-    feature2
+    develop1
     <img src="./assets/logo.png">
     <router-view />
   </div>
