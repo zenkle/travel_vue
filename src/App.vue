@@ -2,6 +2,7 @@
   <div id="app">
 
     11111122222
+    master1
     <img src="./assets/logo.png">
     <router-view />
   </div>
