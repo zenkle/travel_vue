@@ -2,7 +2,8 @@
   <div id="app">
 
     11111122222
-    feature1 <img src="./assets/logo.png">
+    master1
+    <img src="./assets/logo.png">
     <router-view />
   </div>
 </template>
